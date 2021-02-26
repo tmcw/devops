@@ -7,13 +7,13 @@
 
 ## Heroku-style PaaS
 
-- [Heroku](https://heroku.com) (many). The original.
+- [Heroku](https://heroku.com) (many). The original. Runs on AWS.
 - [platform.sh](https://platform.sh)
 - [Render](https://platform.sh)
-- [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/)
+- [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/). Doesn't have an underlying service - DigitalOcean runs its own servers.
 
 ## Serverless PaaS
 
 No databases, no persistent instances
 
-- [Vercel](https://vercel.com/)
+- [Vercel](https://vercel.com/). Runs on AWS.
